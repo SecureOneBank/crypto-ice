@@ -1,0 +1,14 @@
+{
+  "name": "SecureOneBank Ice",
+  "symbol": "SOBICE",
+  "description": "SOBice is the utility and value token of the SecureOneBank ecosystem, enabling cross-border payments, staking, and decentralized finance services.",
+  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://secureonebank.net",
+    "whitepaper": "https://secureonebank.net/the-whitepaper.html",
+    "twitter": "https://twitter.com/SecureOneBank",
+    "telegram": "https://t.me/SecureOneBank",
+    "github": "https://github.com/SecureOneBank"
+  }
+}
