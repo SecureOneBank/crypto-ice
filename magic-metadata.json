@@ -2,7 +2,7 @@
   "name": "SecureOneBank",
   "symbol": "MAGIC",
   "description": "MAGIC is the utility and value token of the SecureOneBank ecosystem, enabling cross-border payments, staking, and decentralized finance services.",
-  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo4work.png",
+  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo-magic-png.png",
   "decimals": 9,
   "extensions": {
     "website": "https://secureonebank.net",
@@ -11,4 +11,5 @@
     "telegram": "https://t.me/SecureOneBank",
     "github": "https://github.com/SecureOneBank"
   }
+
 }
