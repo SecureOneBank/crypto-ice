@@ -2,7 +2,7 @@
   "name": "Fynyx",
   "symbol": "FYNYX",
   "description": "FYNYX is the utility and value token of the Fynyx ecosystem, enabling decentralized blockchain services.",
-  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo-help-png.png",
+  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo-fynyx-png.png",
   "decimals": 9,
   "extensions": {
     "website": "https://secureonebank.net",
@@ -11,5 +11,6 @@
     "telegram": "https://t.me/SecureOneBank",
     "github": "https://github.com/SecureOneBank"
   }
+
 
 }
