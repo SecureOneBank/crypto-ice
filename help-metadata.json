@@ -2,7 +2,7 @@
   "name": "SecureOneBank",
   "symbol": "HELP",
   "description": "HELP is the utility and value token of the SecureOneBank ecosystem, enabling cross-border payments, staking, and decentralized finance services.",
-  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo-help-png.png",
+  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo-help2-png.png",
   "decimals": 9,
   "extensions": {
     "website": "https://secureonebank.net",
@@ -13,3 +13,4 @@
   }
 
 }
+
