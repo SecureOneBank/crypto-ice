@@ -1,8 +1,8 @@
 {
-  "name": "Networth",
-  "symbol": "NET",
-  "description": "NET is the utility and value token of the Networth ecosystem, enabling decentralized blockchain services.",
-  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/logo-mymilly-png.png",
+  "name": "MyMilly",
+  "symbol": "MYCOIN",
+  "description": "MYCOIN is the utility and value token of the MyMilly ecosystem, enabling decentralized blockchain services.",
+  "image": "https://raw.githubusercontent.com/SecureOneBank/crypto-ice/main/mycoin.png",
   "decimals": 9,
   "extensions": {
     "website": "https://secureonebank.net",
@@ -12,5 +12,5 @@
     "github": "https://github.com/SecureOneBank"
   }
 
-
 }
+
